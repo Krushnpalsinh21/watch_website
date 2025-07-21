@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+}
+
+.cart-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cart-table th,
+.cart-table td {
+  padding: 15px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #111;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}

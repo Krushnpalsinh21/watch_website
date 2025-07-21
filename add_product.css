@@ -1,0 +1,30 @@
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 25px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input[type="text"],
+input[type="file"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 15px;
+  background: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}

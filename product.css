@@ -1,0 +1,28 @@
+.product-detail {
+  display: flex;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.product-detail img {
+  max-width: 300px;
+  border: 1px solid #ccc;
+}
+
+.details {
+  flex: 1;
+}
+
+.price {
+  color: #27ae60;
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+button {
+  background: #000;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}

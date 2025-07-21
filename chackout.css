@@ -1,0 +1,19 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+input, label, button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.success {
+  color: green;
+  font-weight: bold;
+}
+
+.error {
+  color: red;
+}
